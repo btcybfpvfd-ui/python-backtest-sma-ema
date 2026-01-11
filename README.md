@@ -10,6 +10,9 @@ basée sur les moyennes mobiles (SMA / EMA) en Python.
 - Comparaison avec le Buy & Hold
 
 ## Résultat exemple
+![Résultat du backtest](Backtest Moyennes Mobiles en Python.png)
+)
+
 
 
 ## Tutoriel complet
